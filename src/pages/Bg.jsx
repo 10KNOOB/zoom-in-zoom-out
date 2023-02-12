@@ -5,7 +5,7 @@ import "./token.css";
 const Bg = () => {
   return (
     <section id="hero">
-        <div className="relative h-[460px] w-full bg-gradient-to-b from-cyan-500 to-blue-800 bg-cover  bg-center">
+        <div className=" relative h-[460px] bg-gradient-to-b  from-cyan-500 to-blue-800  w-full bg-cover bg-center mix-blend-overlay">
           <div className="tokenbg "></div>
           <div className="flex md:hidden">
             <img
