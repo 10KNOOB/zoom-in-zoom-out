@@ -1,4 +1,4 @@
-import Background from './Bg.jsx'
+import Background from './pages/Bg.jsx'
 function App() {
 
 

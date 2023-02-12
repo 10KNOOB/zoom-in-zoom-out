@@ -1,6 +1,6 @@
 @media only screen and (min-width: 768px) {
     .tokenbg {
-      background-image: url(./img/tree-bg.png);
+      background-image: url(../img/others/tree-bg.png);
       animation: medium 20s infinite;
       -webkit-animation: medium 20s infinite;
       background-position: center center;
@@ -15,7 +15,7 @@
   
   @media only screen and (min-width: 1024px) {
     .tokenbg {
-      background-image: url(./img/tree-bg.png);
+      background-image: url(../img/others/tree-bg.png);
       animation: large 20s infinite;
       -webkit-animation: large 20s infinite;
       background-position: center center;

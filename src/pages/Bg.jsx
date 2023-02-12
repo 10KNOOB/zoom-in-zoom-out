@@ -1,5 +1,5 @@
 import React from 'react'
-import BG from "./img/tree-bg.png";
+import BG from "../img/others/tree-bg.png";
 import "./token.css";
 
 const Bg = () => {
